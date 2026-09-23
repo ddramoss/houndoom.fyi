@@ -16,7 +16,7 @@
 
   <p class="intro">
     <strong>NelsonDJCR</strong> desarrolla y opera la aplicación móvil
-    <strong>La Leyenda del Elixir</strong> (la "Aplicación"). Esta política explica qué información
+    <strong>La Leyenda del Elixir</strong>. Esta política explica qué información
     recopilamos, cómo la usamos, con quién la compartimos y qué derechos tienes al respecto. Al descargar,
     instalar o utilizar la Aplicación, aceptas las prácticas descritas en este documento.
   </p>
@@ -56,8 +56,8 @@
     </p>
     <h3>Datos de uso</h3>
     <p>
-      Información general sobre tu interacción con la Aplicación —niveles jugados, monedas obtenidas, tiempo
-      de sesión, tasa de errores o fallos— que utilizamos con fines estadísticos y de mejora del producto.
+      Información general sobre tu interacción con la Aplicación - niveles jugados, monedas obtenidas, tiempo
+      de sesión, tasa de errores o fallos - que utilizamos con fines estadísticos y de mejora del producto.
     </p>
     <h3>Datos del dispositivo</h3>
     <p>
@@ -204,7 +204,7 @@
         Privacidad, puedes contactarnos en:
       </p>
       <p><a href="mailto:contact@nelsondjcr.com">contact@nelsondjcr.com</a></p>
-      <p>NelsonDJCR — Desarrollador de La Leyenda del Elixir</p>
+      <p>NelsonDJCR - Desarrollador de La Leyenda del Elixir</p>
     </div>
   </section>
 
