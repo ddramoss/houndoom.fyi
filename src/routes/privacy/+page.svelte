@@ -15,7 +15,7 @@
 <main id="contenido">
 
   <p class="intro">
-    <strong>NelsonDJCR</strong> ("nosotros", "nos" o "nuestro") desarrolla y opera la aplicación móvil
+    <strong>NelsonDJCR</strong> desarrolla y opera la aplicación móvil
     <strong>La Leyenda del Elixir</strong> (la "Aplicación"). Esta política explica qué información
     recopilamos, cómo la usamos, con quién la compartimos y qué derechos tienes al respecto. Al descargar,
     instalar o utilizar la Aplicación, aceptas las prácticas descritas en este documento.
